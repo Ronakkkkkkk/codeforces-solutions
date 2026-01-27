@@ -1,4 +1,4 @@
-## Codeforces Solutions
+# Codeforces Solutions
 This repository contains my accepted solutions to problems from [Codeforces](https://codeforces.com/).  
 Each solution is written in **C++** and stored as an individual file named after the problem (e.g., `4A.cpp`, `71A.cpp`).
 
